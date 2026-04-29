@@ -13,8 +13,6 @@ The lab is specifically focused on studying (epi)genome (in)stability in early h
 - 👶 Reproductive genetics and embryo development
 - 🌍 Reproductive literacy, ethics, and equitable access to care
 
-<br>
-
 <div align="center">
   <img src="https://cdn-uploads.huggingface.co/production/uploads/630f63f14dbbbb6f66808d32/aouLe6MVDnqH6GAqjqgpa.png" width="500"/>
 </div>
