@@ -2,7 +2,6 @@
 
 At the Laboratory of Cellular Genomic Medicine (CGM), we have a general interest in development and application of innovative technologies for characterising different molecular layers, including (epi)genome and transcriptome, at the single-cell resolution. We further decipher the connectivity and interplay between those molecular layers within a single cell and their impact on cellular identity and function. We constantly explore new avenues towards translating our research into the clinic.
 
-The lab is specifically focused on studying (epi)genome (in)stability in early human development with application to the clinic, e.g. preimplantation genetic testing (PGT) and non-invasive prenatal testing (NIPT). Our research lies at the intersection of classical genetics, molecular and developmental genetics, clinical genetics, bioinformatics and artificial intelligence.
 
 ## What we work on 🔬
 
